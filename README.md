@@ -14,4 +14,8 @@ This is my camera effects project.
 
 ***
 
+Storyscape
 
+This is my storyscape project.
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/evangelistac/cars--crisol-17-copy-copy-copy-copy" ></script>
